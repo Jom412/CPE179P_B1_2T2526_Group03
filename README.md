@@ -69,7 +69,8 @@ GoogleADKProject/
 
 ```bash
 git clone https://github.com/Jom412/CPE179P_B1_2T2526_Group03
-cd Identity-Document-Processing
+cd CPE179P_B1_2T2526_Group03
+
 ```
 
 ### 2. Set Up a Virtual Environment (Recommended)
