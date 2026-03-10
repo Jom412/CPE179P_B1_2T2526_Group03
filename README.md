@@ -68,7 +68,7 @@ GoogleADKProject/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourOrg/Identity-Document-Processing.git
+git clone https://github.com/Jom412/CPE179P_B1_2T2526_Group03
 cd Identity-Document-Processing
 ```
 
