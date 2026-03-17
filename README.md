@@ -1,4 +1,4 @@
-# 🛂 Identity Document Processing & Deduplication System
+# 🛂 Identity Document Processing Pipeline with Vector Embeddings using Google ADK
 
 An intelligent, 3-tier architecture system designed to automate the extraction of structured data from identity documents (Passports, Driver's Licenses, etc.) and perform semantic deduplication using Vector Search.
 
